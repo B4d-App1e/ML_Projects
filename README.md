@@ -1,2 +1,2 @@
 # ML_Projects
-Machine learning projects that have been completed by me so far.
+Machine learning projects that have been completed by me so far. They were created in various fields of computer science, such as computer vision, audio signal processing, natural language processing, time series analysis, and others. The projects used a variety of machine learning methods, from clustering and classification methods to the latest developments in deep learning. The projects were implemented in 2 main languages: swift and python, while all of the machine learning methods implemented in swift were created from scratch.
